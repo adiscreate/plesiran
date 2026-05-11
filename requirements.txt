@@ -1,0 +1,7 @@
+agno
+streamlit
+python-dotenv
+tavily-python
+duckduckgo-search
+folium
+streamlit-folium
