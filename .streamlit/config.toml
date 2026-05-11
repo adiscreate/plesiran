@@ -1,0 +1,18 @@
+[theme]
+# Kuning hangat — pasir & matahari
+primaryColor = "#f5c842"
+
+# Hijau hutan gelap — alam tropis
+backgroundColor = "#0d1f1a"
+
+# Hijau tua — sidebar & card
+secondaryBackgroundColor = "#1f3329"
+
+# Krem lembut — nyaman dibaca
+textColor = "#f0ede5"
+
+font = "sans serif"
+
+[client]
+showErrorDetails = false
+toolbarMode = "minimal"
